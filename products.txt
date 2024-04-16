@@ -1,0 +1,29 @@
+1000,iPhone 12,899.0,In  Stock,Iphone
+1001,MacBook ,1099.0,In  Stock,Mac Book
+1002, Apple Watch Series 6,399.0,In  Stock,Apple watch
+1003, iPhone 11,699.0,Out Of Stock,Iphone
+1004,i mac 2021,1699.0,In  Stock,I mac
+1005,MacBook Pro 13,1299.0,In  Stock,Mac Book
+1006,Airpods pro,150.0,Out Of Stock,Airpods
+1007,MacBook Pro 16,2399.0,In  Stock,Mac Book
+1007,MacBook Pro 16,2399.0,In  Stock,Mac Book
+1008,Apple Watch Series 5,399.0,Out Of Stock,Apple watch
+1007,MacBook Pro 16,2399.0,In  Stock,Mac Book
+1008,Apple Watch Series 5,399.0,Out Of Stock,Apple watch
+1007,MacBook Pro 16,2399.0,In  Stock,Mac Book
+123,iphone,1234.0,In  Stock,Iphone
+1007,MacBook Pro 16,2399.0,In  Stock,Mac Book
+1007,MacBook Pro 16,2399.0,In  Stock,Mac Book
+1007,MacBook Pro 16,2399.0,In  Stock,Mac Book
+1008,iphone,1500.0,In  Stock,Iphone
+1007,MacBook Pro 16,2399.0,In  Stock,Mac Book
+1008,iphone,1500.0,In  Stock,Iphone
+1008,iphone,1500.0,In  Stock,Iphone
+1007,MacBook16,2000.0,Out Of Stock,Mac Book
+1008,iphone,1500.0,In  Stock,Iphone
+1007,MacBook16,2000.0,Out Of Stock,Mac Book
+1007,MacBook16,2000.0,Out Of Stock,Mac Book
+1008,iphone,1500.0,In  Stock,Iphone
+1007,MacBook16,2000.0,Out Of Stock,Mac Book
+1008,iphone,1500.0,In  Stock,Iphone
+1009,Iphone 7,500.0,In  Stock,Iphone

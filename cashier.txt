@@ -1,0 +1,9 @@
+chamod:123
+
+ddd:123
+CHAMOD:2001
+chamod2001:gmpc
+fff:fff
+visitha:12345
+mulle:1234
+visitha:vnr
